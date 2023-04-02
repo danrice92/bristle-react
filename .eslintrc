@@ -10,7 +10,7 @@
     ],
     "react/jsx-uses-vars": [2],
     "semi": 1,
-    "space-before-function-paren": [1],
+    "space-before-function-paren": [0],
     "comma-dangle": [1, "never"],
     "quotes": [1, "single", { "avoidEscape": true }],
     "keyword-spacing": [
@@ -32,7 +32,6 @@
       }
     ],
     "object-curly-spacing": [1, "always", { "objectsInObjects": false }],
-    "array-bracket-spacing": ["error", "never"],
-    "mocha/no-exclusive-tests": "error"
+    "array-bracket-spacing": ["error", "never"]
   }
 }
