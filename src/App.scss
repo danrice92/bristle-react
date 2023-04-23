@@ -1,0 +1,11 @@
+@import 'bootstrap/scss/bootstrap';
+
+.skyline-background {
+  background-image: linear-gradient(
+      rgb(255, 255, 255, 0.7),
+      rgb(255, 255, 255, 0.7)
+    ),
+    url('./images/skyline.jpeg');
+  height: 100vh;
+  width: 100vw;
+}
